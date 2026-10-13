@@ -6,3 +6,6 @@
 ## Bai4.7
 <img width="1432" height="836" alt="Ảnh chụp màn hình 2026-10-13 150257" src="https://github.com/user-attachments/assets/19427f21-c54e-433d-8dea-b836e89f18ff" />
 
+## Bai4.8
+<img width="1135" height="675" alt="Ảnh chụp màn hình 2026-10-13 151448" src="https://github.com/user-attachments/assets/6646a7c3-38b8-4c0a-a740-2bcb6c88a6e7" />
+
